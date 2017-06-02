@@ -1,0 +1,6 @@
+select *
+from whiteboard..testtesttest
+
+
+select *
+from whiteboard..aaa
